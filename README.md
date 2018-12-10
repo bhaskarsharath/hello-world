@@ -1,2 +1,1 @@
-# hello-world
-First sample Hello World repository
+This is my first custom git repository
